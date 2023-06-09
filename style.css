@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: opx;
+}
+input {
+    width:300px;
+    height:30px;
+    border-radius: 5px;
+    border: 2px solid #d2d2d2;
+    outline: none;
+    margin-top: 8px;
+    padding: 0 10px;
+    font-size: 25px;
+  }
+  
+  input:focus {
+    border-color: #040505;
+  }
+  header {
+  min-height: 100vh;
+  width: 100%;
+  padding-bottom: 0px;
+  background: url("temp.jpg") no-repeat  top / cover;
+  position: relative;
+}
